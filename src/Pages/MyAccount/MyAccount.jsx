@@ -1,8 +1,12 @@
 import React from 'react'
+import Layout from '../../Components/Layout/Layout'
+
 
 function MyAccount() {
   return (
-    <div>MyAccount</div>
+    <Layout>
+      MyAccount
+      </Layout>
   )
 }
 
